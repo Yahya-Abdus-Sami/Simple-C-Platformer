@@ -1,4 +1,4 @@
-This is a Platformer game written in C and Raylib for my programming fundamentals (PF) course at university.
+This is a Platformer game written in C and Raylib as my solo project for the programming fundamentals (PF) course at university.
 
 A player must avoid incoming arrows and collect the stars to continue playing and build up their score.
 

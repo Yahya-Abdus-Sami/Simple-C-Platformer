@@ -1,3 +1,5 @@
+My First Game!  Semester 1 Project
+
 This is a Platformer game written in C and Raylib as my solo project for the programming fundamentals (PF) course at university.
 
 A player must avoid incoming arrows and collect the stars to continue playing and build up their score.

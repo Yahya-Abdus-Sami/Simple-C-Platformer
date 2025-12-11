@@ -2,6 +2,7 @@ This is a Platformer game written in C and Raylib as my solo project for the pro
 
 A player must avoid incoming arrows and collect the stars to continue playing and build up their score.
 
+![Gameplay GIF](video/example2g.gif)
 
 This project is the final project for the PF lAB course that is meant to display a clear implementation and understanding of core progrmming concepts covered in the course.
 In this game, the player controls a sprite, a blue ball, the sprite can move 
